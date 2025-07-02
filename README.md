@@ -50,6 +50,12 @@ An interactive React application that allows employees to:
 
 ## 🔧 Installation & Local Development
 
+> **Login credentials** for the dashboard:
+> - Username: `admin`
+> - Password: `password`
+
+1. **Clone the backend repo** and install dependencies:
+
 1. **Clone the dashboard repo** and install dependencies:
    ```bash
    git clone https://github.com/LWashington6935/vesting-backend.git
@@ -82,4 +88,3 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-# e.g.-portfolio
